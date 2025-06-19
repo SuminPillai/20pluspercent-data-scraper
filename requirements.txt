@@ -1,0 +1,2 @@
+stock-nse-india
+psycopg2-binary
